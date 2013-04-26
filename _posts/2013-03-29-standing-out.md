@@ -7,7 +7,7 @@ cover:![Alt text](/images/blog/minion.gif)
 
 
 
-Have you noticed? The most popular websites nowadays be it Facebook, Twitter, YouTube, Instagram, revolve around a feed. A feed consisting of status updates, photos, videos, posts, what have you. Alongside that content you also find your name, and your avatar. That small square arrangement of pixels is crucial in identifying your post from the one above or below you. Fail to grab the attention of the reader, with your small avatar, and you’re lost in the background. What benefit does that new follower bring you, if they “can’t see” your post in their feed?
+So I decided to finally crack down and create a webite, this site is made using jakyll and github and is not the easyist thing to create so It might be buggy for a while.
 
 <!--more-->
 
