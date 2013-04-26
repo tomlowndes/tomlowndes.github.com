@@ -18,7 +18,7 @@ hotline-miami is a indie game that was released in late 2012. I was so in love w
 <!--more-->
 
 ##What I Did
-I really wanted to create a gritty, styleized poster in anticipation of the release of this game, I had a look at some early artwork and gameplay screenshots and came up with this idea
+I really wanted to create a gritty, styleized poster in anticipation of the release of this game, I had a look at some early artwork and gameplay screenshots and came up with this idea.
 
 <img src="http://blog.tomlowndes.co.uk/images/work/hotline-miami/largeposter.jpg">
 
