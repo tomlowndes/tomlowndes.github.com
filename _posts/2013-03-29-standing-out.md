@@ -1,58 +1,114 @@
 ---
-title: 'Standing out from the digital crowd'
+title: 'Must-have OS X apps for designers and developers'
 layout: post
-cover:![Alt text](/images/blog/minion.gif) 
+cover: '<img class="white" src="http://blog.tomlowndes.co.uk/images/blog/minion.gif" alt="" />'
 ---
 {{ page.cover }}
 
-
-
-So I decided to finally crack down and create a webite, this site is made using jakyll and github and is not the easyist thing to create so It might be buggy for a while.
-
+Yep, it’s the post every Mac user has to publish at least once in their lifetime. But hear me out now; If you’re a designer or developer, you might this list useful.
 <!--more-->
 
-##We don’t read, we scan
-Even as you’re reading this line, your eyes fixate on one word and then they “jump” to the next three-four words (depends on how fast you read; fast readers use their peripheral vision and fixate fewer times per line). In a feed, we tend to **scan** in an [F-shape pattern](http://www.vanseodesign.com/web-design/3-design-layouts/). We start from the avatar (left-top) and then move on to read what the person has said.
+##Efficiency is the root of all evil
+I like efficiency. It gives me a sense of clarity, and completeness. An efficient writer will write more in less time, an efficient driver will get better gas mileage, an efficient athlete will train better for a race.
 
-<a href="http://sicanstudios.com/images/blog/assets/twitter-eye-tracking.png" class="img" target="_blank"><img src="http://sicanstudios.com/images/blog/assets/twitter-eye-tracking.png" alt="twitter eye tracking" /></a>
+It takes time to learn how to be efficient. Each person is different, and you have to try stuff to see if they work for you, and fit your work style. I want to show you how I roll.
 
-Because it’s so easy for the reader to “skip you” and scroll down, thus neglecting your post, you have to make it interesting to the reader, so they will stop and accord you a few seconds. If what you say is worth or not their while, that’s another story.
+##Interface
+On my MacBook Air 13”, I’ve hid my dock, to gain some vertical space for apps (yes, I know I can run apps in fullscreen). 
 
-We tend to scan a website, or a feed, vertically and we only stop to look at **big** and **bold** type (headings), **bright colours** (buttons), **changes** in layout (circled avatars), and **faces** (in particular: the inversed triangle formed by our eyes and nose). Then, if the post is interesting, or we respect/admire the person who posted it, we will read it. Only if we are compelled by what we’ve read, we will click the link.
+I run a few apps in fullscreen: SublimeText, Spotify, and Mail. I write code in fullscreen SublimeText, swipe to the right, and refresh the browser to see the changes. Or, I work with non-fullscreen apps like Finder, Photoshop, etc., and I know that a swipe to the left is SublimeText; two swipes is Spotify, and so on. It’s faster that pressing Cmd + Tab 12 times (depends on the number of apps you have running) to find SublimeText from the list, for example.
 
-##Learning from advertising
-It has been said that advertising should be used to **reinforce a brand**, not introduce it. McDonald’s doesn’t need to advertise or become an official sponsor of anything. But by advertising their brand, you are reminded of the pleasure you get from eating their delicious Bic Mac or French fries, and you start craving for one. 
+I find it faster to run apps using the spotlight shortcut [Cmd + Space], and type in the first few letters of the app. But if I don’t know/remember the app, I find it much faster to pinch with four fingers and find it from the menu.
 
-The same principle can be applied in the digital cyberspace. If you have a memorable avatar, whenever you post something, you tap into the **long-term memory** of the reader who recognises your avatar. In time, they will start reading your posts instinctively.
+##Categorisation
+I have all my apps divided into four categories/folders: 
 
-Congratulations! You just became a drug. That is until you post something offensive or contradictory to the reader’s opinion…
+1. “Apple” (Dictionary, FaceTime, Photobooth, etc.).
+2. “Other” (Keychain Access, TimeMachine, Disk Utility, etc.).
+3. “Utilities”.
+4. “Apps” (not inside a folder).
 
-##Why I made my avatar yellow
-So far we’ve learned that big type, bright colours, and faces attract our attention. Let’s take it a step further. Is having a face enough to attract attention?
- 
-Websites, in order to be readable, tend to have a white/grey background. That means any avatar with white/grey colour will be **blended**, at first, with the background. You see, our brain processes images similar to when you load a progressive JPG image. It starts out blurry and as milliseconds pass, the images gets clearer, and we start identifying the finer details.
+<a href="{{relative}}/images/blog/assets/menu-apps.jpg" class="img" target="_blank"><img src="{{relative}}/images/blog/assets/menu-apps.jpg" alt="sublime text theme" /></a>
 
-A few months ago there was a trend with avatars, to display your avatar in black and white (I did it too). The problem is that your B&W avatar gets mixed up in my memory with the other B&W avatars, because they look too similar, and I can’t differentiate yours. See the difference, in the image below?
+##Apps (In order of usage)
+**[Dropbox](http://dropbox.com/) for storage/backup**. I almost forgot to add it to the list! That’s what I love about it: it’s unobtrusive. It’s just there, always working perfectly. It has saved me many times; I permanently deleted a file, only to remember that I need it. If I had it synced with Dropbox, I just restore it (deleted files are kept for 30 days). Another use is doing website testing on external devices. I add the site to the *“Public”* folder, and load the URL on the browser of my iPad, iPhone, etc. I wrote [moving my websites to Dropbox](http://sicanstudios.com/post/guide-hosting-website-dropbox-github/).
 
-<a href="http://sicanstudios.com/images/blog/assets/avatars.jpg" class="img" target="_blank"><img src="http://sicanstudios.com/images/blog/assets/avatars.jpg" alt="avatars" /></a>
+**[Google Chrome](http://www.google.com/chrome/) for browsing**. Until recently, I was using Safari. The [Chrome DevTools](http://discover-devtools.codeschool.com/) made me switch forever.
 
-<small>Top tier: [@soffes](https://twitter.com/soffes), [@salleedesign](https://twitter.com/salleedesign), [@_dte](https://twitter.com/_dte), [@MengTo](https://twitter.com/MengTo), [@sican](https://twitter.com/sican). Bottom tier: [@jessicahische](https://twitter.com/jessicahische), [@paul_irish](https://twitter.com/paul_irish), [@repponen](https://twitter.com/repponen), [@drewwilson](https://twitter.com/drewwilson), [@sican](http://twitter.com/sican).</small>
+**[SublimeText](http://www.sublimetext.com/) for coding**. I spend my life in it, so I might as well make it look pretty. [Download my User settings](https://gist.github.com/sican/5248905).
 
-That’s why I made my avatar yellow.
+<a href="{{relative}}/images/blog/assets/sublime-theme.png" class="img" target="_blank"><img src="{{relative}}/images/blog/assets/sublime-theme.png" alt="sublime text theme" /></a>
 
-##Tips for an attention-grabbing avatar
+**[Adobe CS suite](http://www.adobe.com/) (Photoshop, Illustrator, After Effects) for design, photography, and videos**. A no brainer. Lately, I’ve been experimenting with [Sketch](http://www.bohemiancoding.com/sketch/) for design work. I’m not ready to replace Photoshop, yet.
 
-* Pick a unique **colour** to represent you. Include it somehow in your avatar/profile picture.
-* Show your **face** (logos are impersonal, but I understand why you might use them).
-* Be **expressive**. Smile or make a crazy face.
-* **Zoom in** in order for the avatar to include only your face. That sunset behind you is not unique.
-* Have a **Distraction free** background. Separate yourself from the background by adding contrast; don’t use similar tones for the skin/shirt and background.
-* Be **memorable/entertaining**.
+**[Mail](http://www.apple.com/support/mail/) for reading emails**. Far from perfect, and I need an alternative besides Sparrow. I can’t wait for [dotMail](http://dotmailapp.com/) to come out.
 
-##Consistency
+**[Spotify](https://www.spotify.com) for listening to music**. Or if you want an alternative, try [Rdio]().
 
-<a href="http://sicanstudios.com/images/blog/assets/coca-cola-vs-pepsi.png" class="img" target="_blank"><img src="http://sicanstudios.com/images/blog/assets/coca-cola-vs-pepsi.png" alt="coca cola vs pepsi" /></a>
+**[Skype](http://www.skype.com) for chatting/video calls**. What annoys me the most is not being able to click on the taskbar icon to bring the app to the front (a solution is to use the technique with fullscreen/swiping, describe above). Use [this chat style](http://media.miekd.com/brief) to make your chatroom prettier.
 
-Be consistent with your avatar. In my opinion it’s the most important marketing tool you have today. Don’t change your avatar/profile picture frequently. Also, your avatar should be the same across all sites, apps, and social networks. One avatar to rule them all. Doing so, you tap in the long-term memory of your followers and people can instantly recognise you.
+**[Tower](http://www.git-tower.com/) for pushing code to GitHub**. Makes Git simple. Say goodbye to the command line. If you still use FTP, a great app is [Transmit](http://panic.com/transmit/).
 
-Even if it’s *“the dude with the face of a [Minion](http://www.youtube.com/watch?v=fTHL0MAWkmY)”*, i.e. [me](http://sicanstudios.com/images/alex-cican@2x.jpg).
+**[Byword](http://bywordapp.com/) for writing**. A minimal app that inspires you to write. Alternatives are [iA Writer](http://www.iawriter.com/mac/) or SublimeText.
+
+**[VLC](http://www.videolan.org/vlc/index.html) for watching videos**.
+
+**[Transmission](http://www.transmissionbt.com/) for torrenting**. I wouldn’t be where I am without torrents, and in more general strokes, the Internet. I don’t support piracy, but I do support knowledge. Having paid for a higher education that taught me few useful things, I now value free knowledge (and try to give some, through this blog). This is a topic for another blog post, though.
+
+**[ImageOptim](http://imageoptim.com/) for reducing file size of graphics**. It works like magic, you drag and drop your images, and ImageOptim reduces their file size. To reduce the file size of transparent PNG-24 assets, you can use [ImageAlpha](http://pngmini.com/). It converts the PNG-24 image to an 8 bit PNG with a full alpha channel.
+
+**[LiveView](http://www.zambetti.com/projects/liveview/) for broadcasting your screen to an iOS device**. Useful for designers developing graphics for iOS devices. Supports retina as well. You can also control the cursor of your Mac from the iOS device, useful when doing design prototypes or presentations. Requires Live View installed on the iOS device as well.
+
+**[Reflection](http://www.reflectorapp.com/) for mirroring the iOS device’s screen onto a Mac**. Useful for demos, presentations, tutorials, or product videos. The [product video demo](http://vimeo.com/60272579) I did for [HopIn](https://hop.in/) was created with this app.
+
+**[ScreenFlow](http://www.telestream.net/screenflow/) for recording your screen**. The best app for this job. The tutorial I did to show you [how to make your sites pretty on retina](http://vimeo.com/59101559) was created with this app.
+
+**[Induction](http://inductionapp.com/) for connecting to databases**. I suck at Terminal and the command line. Induction lets me connect and browse databases easily.
+
+
+##Utilities (In order of usage)
+I define utilities as small apps, that run in the background and help you with specific tasks, or make your life easier.
+
+**[Paragon NTFS for Mac](http://www.paragon-software.com/home/ntfs-mac/) for connecting NTFS drives to OS X**. It allows you to connect your NTFS drives to your Mac without formatting them in a weird format readable only by Macs. Thanks to this, I can still use my external drives on other Operating Systems.
+
+**[F.lux](http://stereopsis.com/flux/) turns your Mac screen yellow**. This app changes your screen’s colour to look like the room you’re in. Doing that allows me to work more by staying up late, and staring at my screen longer without hurting my eyes. It might look weird at first, but once you get used to it, your eyes will love it.
+
+**[Brightness Slider](http://actproductions.net/brightness-slider/) for reducing screen brightness**. When you can’t reduce the brightness of your screen any lower, you can use this app to lower it even more. Especially during the night, your eyes will thank you.
+
+**[Slicy](http://macrabbit.com/slicy/) for exporting assets from Photoshop**. Drag and drop your PSD, and assets are created automatically. It also generates @2x from 1x assets, and vice versa. 
+
+**[The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) for extracting and compressing files**. Much better than the Archive Utility app.
+
+**[Icon Slate](http://www.kodlian.com/apps/icon-slate) for exporting icons**. I use it mostly for creating favicons that have embedded both retina and non-retina versions into one file (“favicon.ico”).
+
+**[TextExpander](http://smilesoftware.com/TextExpander/index.html) for keyboard shortcuts and snippets**. With this app you create snippets to help you code faster, and to make you more productive. You can add snippets for your email signature, or your address, or your phone number. It has potential, but I have a terrible memory, so I tend to forget my snippets and I have to search for the snippet code that I assigned. Not very efficient. Download some [cool snippets](https://github.com/JoshuaJones/TextExpander-Snippets).
+
+**[Canon EOS Utility](http://www.makeuseof.com/tag/download-canon-eos-utility-lose-installation-cd-mac/) for remote access to camera**. Connect your dSLR camera to your Mac and operate it from a distance. I used it in the past as a high quality live webcam (1080p recording). I had Skype recording my screen, which was occupied by the Canon EOS Utility app, that was showing live video from the camera.
+
+**[CrossOver](http://www.codeweavers.com/products/) for running Windows apps**. Instead of using [Parallels](http://www.parallels.com/) to install Windows on your Mac, and occupy precious disk space, it’s better to simply run Windows apps (.exe) with this very cool app. 
+
+**[iExplorer](http://www.macroplant.com/iexplorer/) for transferring between iOS devices**. It allows you to browser or transfer music, videos, photos, and tinker with the device’s folders (useful for theming your iOS device).
+
+**[Monolingual](http://monolingual.sourceforge.net/) for removing language packs and freeing disk space**. Especially if you’re on an Air, disk space is precious. Use this app to remove all the language resources your Mac came with. I left only three languages (English, Greek, Romanian). I don’t remember how much space it has saved me, but I think it was around 2-3 GB.
+
+**[AppTrap](http://onnati.net/apptrap/) for removing apps**. With AppTrap, when you move an application to the trash, you can also delete its preferences and “leftovers”.
+
+##Other
+To make designing easier, I use some cool plugins for Photoshop:
+
+- **[GuideGuide](http://guideguide.me/) for making grids**.
+- **[Kuler](http://www.adobe.com/products/kuler.html) for picking colours and palettes**. To enable it, in Photoshop, go to *Window > Extension > Kuler*. It should be there.
+- **[WebZap](http://webzap.uiparade.com/) for creating layouts, mockups, editing many text fields**.
+- **[DevRocket](http://devrocket.uiparade.com/) for faster designing and exporting iOS UI elements**.
+- **[CSSHat](http://csshat.com/) for turning layer styles into CSS code**.
+- **[Bjango Photoshop Actions & Workflows](http://bjango.com/articles/actions/) that speed up the design process**.
+
+To make developing websites easier, I use some cool extensions for Google Chrome:
+
+- **[WhatFont](https://chrome.google.com/webstore/detail/whatfont/) for identifying fonts on websites**.
+- **[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/) to estimate how websites are rendered on other devices**.
+- **[PageSpeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/) for analyzing and improving website performance**.
+
+On top of that, I even learned to type using a new, more efficient keyboard layout, called [Colemak](http://colemak.com/). With the Colemak layout, your fingers move 2.2x less than with a QWERTY keyboard layout. It also supports multilingual, and allows you to type weird symbols (like: €, â, ñ, etc.) without switching languages. The negative aspect is that you have to invest time to learn the layout. 
+
+Be wary of small refinements that lead to even smaller gains. They’re not worthy it. Apply the [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle) which states that 80% of the effects should come from 20% of the actions. Go forth and make stuff!
