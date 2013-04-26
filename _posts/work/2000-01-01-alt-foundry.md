@@ -5,7 +5,7 @@ design_type: 'Promotinal Launch Post'
 case_study_link: ''
 designs: '
 <div class="cover_image">
-  <img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/logo.svg" alt="alt foundry logo"/>
+  <img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/logo.jpg" alt="alt foundry logo"/>
 </div>
 
 <div class="image_container">
