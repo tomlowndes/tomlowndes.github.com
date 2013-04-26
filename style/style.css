@@ -60,12 +60,12 @@ body.move_left {
 }
 
 ::-moz-selection {
-  background: #ffb800;
+  background: #0084ff;
   color: #fff;
 }
 
 ::selection {
-  background: #ffb800;
+  background: #0084ff;
   color: #fff;
 }
 
@@ -77,7 +77,7 @@ img, a, a:visited, .icon:after {
 }
 
 a, a:visited, .copyright:hover a {
-  color: #cc9900;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -125,7 +125,7 @@ a:hover, .copyright a:hover {
 }
 
 .yellow {
-  background: #ffb800;
+  background: #0084ff;
 }
 
 .green {
@@ -231,7 +231,7 @@ ol li {
 }
 
 blockquote {
-  border-left: solid 5px #ffb800;
+  border-left: solid 5px #0084ff;
   background: rgba(255,255,255,0.7);
   padding-left: 1.7em;
   font-style: italic;
@@ -239,7 +239,7 @@ blockquote {
 
 /* code has different font/size; realign */
 pre {
-  border-left: solid 5px #ffb800;
+  border-left: solid 5px #0084ff;
   background: rgba(255,255,255,0.7);
   margin: 0 0 1.9em 0;
   line-height: 1.77777778em;
@@ -341,7 +341,7 @@ code {
 
 /* link colour for icons on hover */
 .icon:hover, .current:before {
-  color: #ffb800;
+  color: #0084ff;
 }
 
 /* shows the icon */
@@ -525,7 +525,7 @@ code {
   text-align: center;
   margin: 0 auto;
   position: relative;
-  background: #ffb800;
+  background: #0084ff;
   display: block;
   opacity: 1;
   -moz-transition: all .2s;
@@ -771,7 +771,7 @@ body.expanded .expand_container>div {
 #about:after {
   left: auto;
   right: 0;
-  background: #ffb800;
+  background: #0084ff;
 }
 
 /* previous/next post links on right/left side of site */
@@ -787,7 +787,7 @@ body.expanded .expand_container>div {
   -moz-transition: border .3s ease;
   -o-transition: border .3s ease;
   transition: border .3s ease;
-  border-left: solid 0 #ffb800;
+  border-left: solid 0 #0084ff;
 }
 
 /* next post on the right */
@@ -795,7 +795,7 @@ body.expanded .expand_container>div {
   left: auto;
   right: 0;
   border-left: none;
-  border-right: solid 0 #ffb800;
+  border-right: solid 0 #0084ff;
 }
 
 /* on hover changes cursor and adds border */
@@ -839,7 +839,7 @@ body.expanded .expand_container>div {
 
 /* changes colour of heading on hover */
 #blog section:hover>a>h2 {
-  color: #ffb800;
+  color: #0084ff;
 }
 
 /* aligns button */
@@ -955,12 +955,12 @@ body.expanded .expand_container>div {
   text-align: center;
   padding: 16px;
   color: #fff !important;
-  background: #ffb800;
+  background: #0084ff;
 }
 
 .button:hover {
   text-decoration: none;
-  color: #ffb800 !important;
+  color: #0084ff !important;
   background: #555;
 }
 
