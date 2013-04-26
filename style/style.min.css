@@ -64,7 +64,7 @@ body.expanded .expand_container>div{cursor:default!important}#about{text-align:c
 .button:hover{text-decoration:none;color:#0084ff!important;background:#555}footer{padding-top:1.55em}#footer_links{height:96px;display:table;width:100%;margin-bottom:-4px}
 #footer_links>a{padding-top:29px;display:inline-block;vertical-align:top;text-align:center;width:16.6%}.ie9 #footer_links>a{width:16%}#footer_links .icon:hover{width:18.6%;margin:auto -1%}
 #footer_links .icon span{padding:0 2px}.copyright{padding:2.2em 0;-moz-transition:all .5s;-webkit-transition:all .5s;-o-transition:all .5s;transition:all .5s}
-.copyright .available{color:#1c51ba}.copyright a{color:#aaa}.copyright:hover{color:#555}@media screen and (min-width:768px){body{font-size:1.375em}h1,#blog section h2{font-size:2em;line-height:1.38888889;margin:0;margin-bottom:.125em;text-align:center}
+.copyright .available{color:#72a951}.copyright a{color:#aaa}.copyright:hover{color:#555}@media screen and (min-width:768px){body{font-size:1.375em}h1,#blog section h2{font-size:2em;line-height:1.38888889;margin:0;margin-bottom:.125em;text-align:center}
 h2{font-size:1.36363636em;line-height:1.06666667em;margin-bottom:1.06666667em}h3,.copyright{font-size:.90909091em;line-height:1.6em;margin:-0.15em 0 1.5em}
 p,ul,ol,blockquote,pre,.gist{font-size:1em;line-height:1.45454545em;margin:0 0 1.45454545em 0}pre{line-height:1.77777778em;margin:0 0 1.8em 0}.main_navigation{margin-bottom:32px}
 [data-icon='l'].icon span{left:0}#work{margin-bottom:65px}.text{max-width:640px;margin:0 auto}.text img{margin:-0.2em 0 -0.6em}
