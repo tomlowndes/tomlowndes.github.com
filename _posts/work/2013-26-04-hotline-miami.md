@@ -24,3 +24,5 @@ I really wanted to create a gritty, styleized poster in anticipation of the rele
 
 ##Concept Idea
 The concept was to create a painted, deam like mural of the main charictor.
+
+<img src="http://blog.tomlowndes.co.uk/images/work/hotline-miami/largeposter.jpg">
