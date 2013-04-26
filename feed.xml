@@ -4,9 +4,9 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Blog of SicanStudios</title>
-    <link>http://sicanstudios.com/blog/</link>
-    <description>Blog feed of SicanStudios. All posts written by Alex Cican.</description>
+    <title>Blog of Tom Lowndes</title>
+    <link>http://tomlowndes.co.uk/blog/</link>
+    <description>Blog feed of Tom Lonwdes. All posts written by Tom Lowndes.</description>
     <pubDate>2013</pubDate>
 
     {% for post in site.posts %}
