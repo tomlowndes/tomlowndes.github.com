@@ -11,22 +11,6 @@ designs: '
 <div class="image_container">
   <noscript data-alt="alt-foundry homepage" data-src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/homepage.jpg" data-src-retina="http://blog.tomlowndes.co.uk/images/work/alt-foundry/homepage@2x.jpg"><img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/homepage.jpg" alt="alt-foundry homepage"></noscript>
 </div>
-
-<div class="image_container">
-  <noscript data-alt="alt-foundry font page" data-src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/font-page.png" data-src-retina="http://blog.tomlowndes.co.uk/images/work/alt-foundry/font-page@2x.png"><img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/font-page.png" alt="alt-foundry font page"></noscript>
-</div>
-
-<div class="image_container">
-  <noscript data-alt="alt-foundry about" data-src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/about.png" data-src-retina="http://blog.tomlowndes.co.uk/images/work/alt-foundry/about@2x.png"><img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/about.png" alt="alt-foundry about"></noscript>
-</div>
-
-<div class="image_container">
-  <noscript data-alt="alt-foundry type-tester" data-src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/type-tester.png" data-src-retina="http://blog.tomlowndes.co.uk/images/work/alt-foundry/type-tester@2x.png"><img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/type-tester.png" alt="alt-foundry type-tester"></noscript>
-</div>
-
-<div class="image_container">
-  <noscript data-alt="alt-foundry footer" data-src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/footer.png" data-src-retina="http://blog.tomlowndes.co.uk/images/work/alt-foundry/footer@2x.png"><img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/footer.png" alt="alt-foundry footer"></noscript>
-</div>
 '
 ---
 
@@ -40,3 +24,4 @@ I got a ton of back-end (PHP) experience from this project. I learned how challe
 ##Concept Idea
 The client requested from me to design and develop a complete e-commerce website for selling fonts. With my previous experience in creating e-commerce websites, I confidently accepted the project.
 
+<img src="http://blog.tomlowndes.co.uk/images/work/alt-foundry/hotlineposter.jpg">
