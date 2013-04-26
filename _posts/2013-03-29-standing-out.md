@@ -1,7 +1,7 @@
 ---
 title: 'Standing out from the digital crowd'
 layout: post
-cover: '<img class="red" src="data:image/minion.svg" alt="minion svg" />'
+cover: ![alt text](http://tomlowndes.github.com/images/blog/minion.gif "Logo Title Text 1")
 ---
 {{ page.cover }}
 
