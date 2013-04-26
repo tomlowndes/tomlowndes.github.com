@@ -5,7 +5,7 @@ design_type: 'Promotinal Launch Poster'
 case_study_link: ''
 designs: '
 <div class="cover_image">
-  <img src="http://sicanstudios.com/images/work/alt-foundry/homepage.jpg" alt="alt foundry logo"/>
+  <img src="http://sicanstudios.com/images/work/alt-foundry/logo.jpg" alt="alt foundry logo"/>
 </div>
 
 <div class="image_container">
