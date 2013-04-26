@@ -1,7 +1,7 @@
 ---
 title: 'Standing out from the digital crowd'
-layout: post
-cover:![Alt text](/images/blog/minion.gif) 
+layout: post.html
+cover:
 ---
 {{ page.cover }}
 
