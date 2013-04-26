@@ -1,7 +1,7 @@
 ---
 title: 'Project: Hotline Miami'
 layout: post
-design_type: 'Promotinal Launch Post'
+design_type: 'Promotinal Launch Poster'
 case_study_link: ''
 designs: '
 <div class="cover_image">
