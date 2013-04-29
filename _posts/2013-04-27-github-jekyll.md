@@ -1,7 +1,7 @@
 ---
 title: 'Making a new website'
 layout: post
-cover: '<img class="white" src="http://blog.tomlowndes.co.uk/images/blog/gitjekyll.gif" alt="Github + Jekyll" />'
+cover: '<img class="white" src="http://tomlowndes.co.uk/images/blog/gitjekyll.gif" alt="Github + Jekyll" />'
 ---
 {{ page.cover }}
 

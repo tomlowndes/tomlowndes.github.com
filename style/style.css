@@ -11,8 +11,8 @@ img, embed, object, video {
 }
 @font-face {
   font-family: 'sicanstudios-icons';
-  src: url(http://blog.tomlowndes.co.uk/style/fonts/sicanstudios-icons.woff) format('woff'),
-     url(http://blog.tomlowndes.co.uk/style/fonts/sicanstudios-icons.ttf) format('truetype');
+  src: url(http://tomlowndes.co.uk/style/fonts/sicanstudios-icons.woff) format('woff'),
+     url(http://tomlowndes.co.uk/style/fonts/sicanstudios-icons.ttf) format('truetype');
   font-weight: normal;
   font-style: normal;
 }
