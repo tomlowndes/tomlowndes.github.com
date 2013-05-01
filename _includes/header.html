@@ -1,7 +1,7 @@
 {% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
 {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
 <!doctype html>
-<!-- <html manifest="http://sicanstudios.com/cache.appcache"> -->
+<!-- <html manifest="http://tomlowndes.com/cache.appcache"> -->
 <!--[if IE 9 ]><html class="ie9"><![endif]-->
 <head>
   <title>{{ page.title }} - {{ site.name }}</title>
@@ -15,8 +15,8 @@
   <meta name="author" content="https://plus.google.com/116801469202683881648/" />
   <meta name="viewport" content="width=device-width" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" type="text/css" href="{% if page.url == '/404.html' %}http://sicanstudios.com/style/style.min.css{% else %}{{ relative }}style/style.min.css{% endif %}" />
-  <link rel="alternate" type="application/rss+xml" title="Design &amp; Development - Tom Lowndes" href="http://feeds.feedburner.com/sicanstudios/" />
+  <link rel="stylesheet" type="text/css" href="{% if page.url == '/404.html' %}http://tomlowndes.com/style/style.min.css{% else %}{{ relative }}style/style.min.css{% endif %}" />
+  <link rel="alternate" type="application/rss+xml" title="Design &amp; Development - Tom Lowndes" href="http://feeds.feedburner.com/tomlowndes/" />
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <link rel="apple-touch-icon-precomposed" href="{{ relative }}images/touch-icon-57.png" />
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ relative }}images/touch-icon-72.png" />
@@ -29,9 +29,24 @@
   <meta property="og:site_name" content="Design &amp; Development - Tom Lowndes" />
   <meta property="og:type" content="blog" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@tomlowndes" />
-  <meta name="twitter:creator" content="@tomlowndes" />
+  <meta name="twitter:site" content="@tom_lowndes" />
+  <meta name="twitter:creator" content="@tom_lowndes" />
   <meta name="twitter:creator:id" content="Tom Lowndes" />
+      <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-31853579-1']);
+      _gaq.push(['_setDomainName', 'tomlowndes.co.uk']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+      </script>
+
 </head>
 <body>
   <!--[if lt IE 9]>
