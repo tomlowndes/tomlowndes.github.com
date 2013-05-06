@@ -735,13 +735,13 @@ body.expanded .expand_container>div {
   left: 0;
   right: 0;
   margin: 0 auto;
-  color: #fff;
+  color: #555;
   font-weight: normal;
 }
 
 /* changes colour of link to text */
 #about a {
-  color: #fff;
+  color: #555;
 }
 
 /* on link hover changes to dark colour */
