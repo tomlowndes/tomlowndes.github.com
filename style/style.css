@@ -6,19 +6,19 @@ img, embed, object, video {
 }
 
 @font-face {
-  font-family: 'sicanstudios-icons';
-  src:url('fonts/sicanstudios-icons.eot');
+  font-family: 'tomlowndes';
+  src:url('fonts/tomlowndes.eot');
 }
 @font-face {
-  font-family: 'sicanstudios-icons';
-  src: url(http://tomlowndes.co.uk/style/fonts/sicanstudios-icons.woff) format('woff'),
-     url(http://tomlowndes.co.uk/style/fonts/sicanstudios-icons.ttf) format('truetype');
+  font-family: 'tomlowndes';
+  src: url(http://tomlowndes.co.uk/style/fonts/tomlowndes.woff) format('woff'),
+     url(http://tomlowndes.co.uk/style/fonts/tomlowndes.ttf) format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 [data-icon]:before {
-  font-family: 'sicanstudios-icons';
+  font-family: 'tomlowndes';
   content: attr(data-icon);
   speak: none;
   -webkit-font-feature-settings:"liga","dlig";-moz-font-feature-settings:"liga=1, dlig=1";-moz-font-feature-settings:"liga","dlig";-ms-font-feature-settings:"liga","dlig";-o-font-feature-settings:"liga","dlig";
