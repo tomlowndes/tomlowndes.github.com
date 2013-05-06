@@ -1410,3 +1410,7 @@ footer {
     }
   }
 }
+
+.twitter_link {
+  background-image: "./images/twitter.jpg"
+}
