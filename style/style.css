@@ -757,7 +757,7 @@ body.expanded .expand_container>div {
 /* container has two colours (because of image) */
 #about:before, #about:after {
   content: '';
-  background: #bf8c00;
+  background: #fff;
   display: block;
   width: 50%;
   height: 96%;
@@ -771,7 +771,7 @@ body.expanded .expand_container>div {
 #about:after {
   left: auto;
   right: 0;
-  background: #0084ff;
+  background: #fff;
 }
 
 /* previous/next post links on right/left side of site */
