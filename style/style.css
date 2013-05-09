@@ -77,7 +77,7 @@ img, a, a:visited, .icon:after {
 }
 
 a, a:visited, .copyright:hover a {
-  color: #ffffff;
+  color: #555;
   text-decoration: none;
 }
 
