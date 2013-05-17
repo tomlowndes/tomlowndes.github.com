@@ -2,7 +2,7 @@
 title: 'Project: Hotline Miami'
 layout: post
 design_type: 'Promotinal Launch Poster'
-case_study_link: ''
+
 designs: '
 <div class="cover_image">
   <img src="http://www.tomlowndes.co.uk/images/work/hotline-miami/hotline.svg" alt="alt foundry logo"/>
