@@ -11,8 +11,8 @@ img, embed, object, video {
 }
 @font-face {
   font-family: 'tomlowndes';
-  src: url(http://tomlowndes.co.uk/style/fonts/tomlowndes.woff) format('woff'),
-     url(http://tomlowndes.co.uk/style/fonts/tomlowndes.ttf) format('truetype');
+  src: url(http://tomlowndes.github.io/style/fonts/tomlowndes.woff) format('woff'),
+     url(http://tomlowndes.github.io/style/fonts/tomlowndes.ttf) format('truetype');
   font-weight: normal;
   font-style: normal;
 }
