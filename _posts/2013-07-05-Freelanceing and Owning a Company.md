@@ -1,20 +1,26 @@
 ---
-title: 'Making a new website'
+title: 'Making a new Start'
 layout: post
 cover: '<img class="white" src="http://www.tomlowndes.co.uk/images/blog/gitjekyll.gif" alt="Github + Jekyll" />'
 ---
 {{ page.cover }}
 
-Yep, so after a hard few days, version 1.1 of my github / jekyll hybred website is up and running. The main bulk of code was written by a few other people and found on github, I have just tweaked it to my liking.
+So after a lot of hard work, I've started my own cnc carving company, Minerva Carving. We are going to make house signs and furniture, But also do some rapid prototyping on the side.
 <!--more-->
 
-##Github hosting
-I decided to host my website on github due to it being a relativly easy method to do, you write the html, css and .md files in you native coding application (mine being Sublime Text 2.) Then commit and push those files to Github using a program like Github / tower or by using the terminal, which is explained step by step on the Github site.  
+##Buying a Cnc Machine
+After a lot of discussion with uk based manufacterers we decided to buy and 8x4 foot cnc machine, which will arive by the end of the month. In the mean time we have rented a small A3 machine to make samples of signs and get used to the whole design process. Which I am finding ralativly easy.
 
-##Rolling back
-The good thing about coding a website to live on Github is that if you commit a change then notice that it didn't work then you can roll back to an earyler commit, saving time of finding the problem by scrubbing through all the code 
+##Designing in Ai
+The good thing about it is that with my background in graphic design, I already know how to design vectors, and I can use Adobe Illustrator as well as Sketch to design shapes or type or even a mellenium falcon and then just export that to Vectric, the program we used as a middle man between design and gcode.
 
-It also allows you to code offline on any computer by being able to download the Github repository, which I have kept in my [Dropbox](http://dropbox.com/) folder, change files and then once happy with those changes push it up to the love site.
+It also allows me to have finer controll over my designs compaired to Vectric which is a prowefull tool but it difficult to use sometimes due to it sepperation simple processes across a few buttons rather than in illustrator as an exaple font selection, size and kerning are in one place.
 
-##URL Problems
-The only problem that I have stuggled with is getting the url tomlowndes.co.uk to point to the github files so at the moment to acsess the site it is blog.tomlowndes.co.uk but once this is fixed I feel that the results are very promising.
+##The main problem 
+Is the fact that Vectirc is a wondows program and I'm a mac user, so my current setup is either design on mac and use a virtualbox shared folder to transfer Items to windows, or design in vectirc.
+
+I think, i will eventually get a windows computer purely to run vectric, but in the mean time I will just use a vertual box.
+
+##Freelancing
+
+I am also freelancing 2-3 days a week for a local company called Externiture, who make bus stops. They wanted a graphic designinger who could design a whole range of print based material to held them gain new clients. So far I am deisgning a product catouloge and it is going pretty well. Once it is finished I will post some photo's.
