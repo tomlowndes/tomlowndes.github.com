@@ -13,9 +13,11 @@ designs: '
 </div>
 '
 ---
-Externiture
+I designed a product Catalogue for Externiture, a bus stop manufacturer based in Thatchem. The brief was to collate all of the infomation about the product they manufactured and sold into an easy to read catalouge that could be sent to there clients. 
 <!--more-->
 
-##Vector Drawing
+##The Design
+
+I went for a 6 collum grid layout, which 
 
 
