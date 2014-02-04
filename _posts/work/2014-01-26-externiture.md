@@ -5,11 +5,11 @@ design_type: 'Exturniture Catalogue'
 
 designs: '
 <div class="cover_image">
-  <img src="http://www.tomlowndes.co.uk/images/work/externiture/externiture.svg" alt="alt foundry logo"/>
+  <img src="http://www.tomlowndes.github.io/images/work/externiture/externiture.svg" alt="alt foundry logo"/>
 </div>
 
 <div class="image_container">
-  <noscript data-alt="externiture homepage" data-src="http://www.tomlowndes.co.uk/images/work/externiture/homepage.jpg" data-src-retina="http://tomlowndes.co.uk/images/work/externiture/homepage@2x.jpg"><img src="http://www.tomlowndes.co.uk/images/work/externiture/homepage.jpg" alt="externiture homepage"></noscript>
+  <noscript data-alt="externiture homepage" data-src="http://www.tomlowndes.github.io/images/work/externiture/homepage.jpg" data-src-retina="http://tomlowndes.github.io/images/work/externiture/homepage@2x.jpg"><img src="http://www.tomlowndes.github.io/images/work/externiture/homepage.jpg" alt="externiture homepage"></noscript>
 </div>
 '
 ---
