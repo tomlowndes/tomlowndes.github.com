@@ -5,11 +5,11 @@ design_type: 'Promotinal Launch Poster'
 
 designs: '
 <div class="cover_image">
-  <img src="http://www.tomlowndes.github.io/images/work/hotline-miami/hotline.svg" alt="alt foundry logo"/>
+  <img src="http://www.tomlowndes.co.uk/images/work/hotline-miami/hotline.svg" alt="alt foundry logo"/>
 </div>
 
 <div class="image_container">
-  <noscript data-alt="hotline-miami homepage" data-src="http://www.tomlowndes.github.io/images/work/hotline-miami/homepage.jpg" data-src-retina="http://www.tomlowndes.github.io/images/work/hotline-miami/homepage@2x.jpg"><img src="http://www.tomlowndes.github.io/images/work/hotline-miami/homepage.jpg" alt="hotline-miami homepage"></noscript>
+  <noscript data-alt="hotline-miami homepage" data-src="http://www.tomlowndes.co.uk/images/work/hotline-miami/homepage.jpg" data-src-retina="http://www.tomlowndes.co.uk/images/work/hotline-miami/homepage@2x.jpg"><img src="http://www.tomlowndes.co.uk/images/work/hotline-miami/homepage.jpg" alt="hotline-miami homepage"></noscript>
 </div>
 '
 ---
@@ -20,7 +20,7 @@ Hotline Miami is a indie game that was released in late 2012. I was so in love w
 ##What I Did
 I really wanted to create a gritty, stylized poster in anticipation of the release of this game, I had a look at some early artwork and gameplay screenshots and came up with this idea.
 
-<img src="http://www.tomlowndes.github.io/images/work/hotline-miami/largeposter.jpg">
+<img src="http://www.tomlowndes.co.uk/images/work/hotline-miami/largeposter.jpg">
 
 ##Concept Idea
 The concept was to create a painted, dream like mural of the main character. From the early artwork and screenshots I noticed that the lead character always wore mask, which in the final game is a main mechanic of your success. 

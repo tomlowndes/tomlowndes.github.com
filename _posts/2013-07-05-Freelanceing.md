@@ -1,7 +1,7 @@
 ---
 title: 'Making a new Start'
 layout: post
-cover: '<img class="white" src="http://www.tomlowndes.github.io/images/blog/minervafreelance.gif" alt="Github + Jekyll" />'
+cover: '<img class="white" src="http://www.tomlowndes.co.uk/images/blog/minervafreelance.gif" alt="Github + Jekyll" />'
 ---
 {{ page.cover }}
 
